@@ -27,7 +27,7 @@ Generate the file list:
 python generate_flist.py
 ```
 
-For example to train:
+For example to train: download [hrt_base.pth](https://www.123684.com/s/2pf9-R1CHv)
 ```bash
 cd CATNet_dataset_train/stage1
 python train.py
@@ -36,7 +36,7 @@ cd CATNet_dataset_train/stage2
 python train.py
 ```
 
-For example to test:
+For example to test: download [MPC_CATNet_stage2_weights.pth](https://www.123684.com/s/2pf9-O1CHv)
 ```bash
 cd CATNet_dataset_train/stage2
 python test.py 
