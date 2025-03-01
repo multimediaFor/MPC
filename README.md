@@ -1,5 +1,5 @@
 ## Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization
-An official implementation code for paper "[Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization](https://ieeexplore.ieee.org/document/10884895)". This repo provide codes and trained weights.
+An official implementation code for paper "[Exploring Multi-View Pixel Contrast for General and Robust Image Forgery Localization](https://ieeexplore.ieee.org/document/10884895)". This repo provide codes and trained weights.
 
 ## Framework
 <p align='center'>  
@@ -46,7 +46,7 @@ python test.py
 If you use this code for your research, please cite our paper
 ```
 @article{lou2025exploring,
-  title={Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization},
+  title={Exploring Multi-View Pixel Contrast for General and Robust Image Forgery Localization},
   author={Lou, Zijie and Cao, Gang and Guo, Kun and Yu, Lifang and Weng, Shaowei},
   journal={IEEE Transactions on Information Forensics and Security},
   year={2025},
