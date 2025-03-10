@@ -36,7 +36,7 @@ cd CATNet_dataset_train/stage2
 python train.py
 ```
 
-For example to test: download [MPC_CATNet_stage2_weights.pth](https://www.123684.com/s/2pf9-O1CHv)
+For example to test: download [MPC_CATNet_stage2_weights.pth](https://www.123684.com/s/2pf9-EGCHv)
 ```bash
 cd CATNet_dataset_train/stage2
 python test.py 
