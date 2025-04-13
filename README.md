@@ -41,7 +41,7 @@ For example to test: download [MPC_CATNet_stage2_weights.pth](https://www.123684
 cd CATNet_dataset_train/stage2
 python test.py 
 ```
-
+If you want to test MPC of trained with CASIAv2 dataset, please download the weight file from [MPC_CASIAv2_stage2_weights.pth](https://www.123684.com/s/2pf9-ylCHv)
 ## Citation
 If you use this code for your research, please cite our paper
 ```
