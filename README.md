@@ -27,7 +27,7 @@ Generate the file list:
 python generate_flist.py
 ```
 
-For example to train: download [hrt_base.pth](https://www.123684.com/s/2pf9-R1CHv)
+For example to train: download [hrt_base.pth](https://drive.google.com/file/d/1G8-pVXNMskXE-vQYvF97ZOWxWBvdFGmc/view?usp=sharing)
 ```bash
 cd CATNet_dataset_train/stage1
 python train.py
@@ -36,12 +36,12 @@ cd CATNet_dataset_train/stage2
 python train.py
 ```
 
-For example to test: download [MPC_CATNet_stage2_weights.pth](https://www.123684.com/s/2pf9-EGCHv)
+For example to test: download [MPC_CATNet_stage2_weights.pth](https://drive.google.com/file/d/1vXDvrTVizINKcR_MgdA_uuTWcB3I4HdI/view?usp=sharing)
 ```bash
 cd CATNet_dataset_train/stage2
 python test.py 
 ```
-If you want to test MPC of trained with CASIAv2 dataset, please download the weight file from [MPC_CASIAv2_stage2_weights.pth](https://www.123684.com/s/2pf9-ylCHv)
+If you want to test MPC of trained with CASIAv2 dataset, please download the weight file from [MPC_CASIAv2_stage2_weights.pth](https://drive.google.com/file/d/148gv5ovxrQR0QZL2rB3Jt-9lwAS_AH0d/view?usp=sharing)
 ## Citation
 If you use this code for your research, please cite our paper
 ```
